@@ -1,18 +1,18 @@
 #EXTM3U
 #EXTINF:-1,SKY SPORT MAIN EVENT
-http://p4.giffy.be:8080/live/coke123/coke123/21743.ts
+http://p4.giffy.be:8080/live/coke123/coke123/21743.m3u8
 #EXTINF:-1,SKY SPORTS CRICKET
-http://p4.giffy.be:8080/live/coke123/coke123/21742.ts
+http://p4.giffy.be:8080/live/coke123/coke123/21742.m3u8
 #EXTINF:-1,SKY SPORTS ACTION
-http://p4.giffy.be:8080/live/coke123/coke123/21741.ts
+http://p4.giffy.be:8080/live/coke123/coke123/21741.m3u8
 #EXTINF:-1,SKY SPORTS GOLF
-http://p4.giffy.be:8080/live/coke123/coke123/21740.ts
+http://p4.giffy.be:8080/live/coke123/coke123/21740.m3u8
 #EXTINF:-1,SKY SPORT SKY PREMIER LEAGUE
-http://p4.giffy.be:8080/live/coke123/coke123/21739.ts
+http://p4.giffy.be:8080/live/coke123/coke123/21739.m3u8
 #EXTINF:-1,SKY SPORT F1 HD
-http://p4.giffy.be:8080/live/coke123/coke123/21738.ts
+http://p4.giffy.be:8080/live/coke123/coke123/21738.m3u8
 #EXTINF:-1,SKY SPORT NEWS
-http://p4.giffy.be:8080/live/coke123/coke123/21732.ts
+http://p4.giffy.be:8080/live/coke123/coke123/21732.m3u8
 #EXTINF:-1,SKY SPORTS MIX
 http://p4.giffy.be:8080/live/coke123/coke123/21728.ts
 #EXTINF:-1,SKY SPORTS NEWS HD
